@@ -9,11 +9,4 @@ HOy estoy aprendiendo sobre GIT, y la clase esta super entrenida.
 nueva historia
 las pruebas que estamos haciendo con GIT
 
-
-haremos la prueba nuevamente
-prueba 5
-quiero realizar mas cambios sobre este cambio
-
-En la Casita estoy calentita 
-
-Hoy es la Vanessa
+Reemplazo de una version del docuemnto.
